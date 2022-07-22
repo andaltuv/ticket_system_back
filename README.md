@@ -5,3 +5,5 @@ Paso 2: npm install
 
 Paso 3: npm run dev (desde la terminal)
 
+<br/><br/>
+Deben tener postgres instalado en local. (https://www.postgresql.org/)
